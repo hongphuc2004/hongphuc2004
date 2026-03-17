@@ -1,6 +1,6 @@
-# Hi 👋 I'm Phan Phuoc Hong Phuc
+# 👋 Hi, I'm Phan Phuoc Hong Phuc
 
-🎓 Final-year Information Technology student  
+🎓 Final-year Information Technology Student  
 📱 Flutter & Mobile Developer  
 💻 Frontend Developer (React.js)  
 📍 Ho Chi Minh City, Vietnam  
@@ -9,90 +9,65 @@
 
 ## 🚀 About Me
 
-I am a final-year IT student passionate about building modern web and mobile applications.  
-I have hands-on experience developing projects using **Flutter, React.js, Node.js, and MongoDB** through academic and personal projects.
+I am a final-year IT student passionate about building modern **mobile and web applications**.  
+I have experience developing projects using **Flutter, React.js, Node.js, and MongoDB** through academic and personal projects.
 
-I enjoy building real-world applications, especially **music-related apps and mobile products**.
+Currently seeking opportunities as a **Flutter Developer Intern or Frontend Developer Intern**.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Mobile
-- Flutter
-- Dart
-- Kotlin
-- Android SDK
-
-### Frontend
-- React.js
-- HTML
-- CSS
-- JavaScript
-- Material UI
-
-### Backend
-- Node.js
-- Express.js
-- RESTful API
-
-### Database
-- MongoDB
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- Docker
-- Postman
+**Mobile:** Flutter, Dart, Kotlin, Android SDK  
+**Frontend:** React.js, HTML, CSS, JavaScript, Material UI  
+**Backend:** Node.js, Express.js, RESTful API  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub, Docker, Postman  
+**Cloud:** Cloudinary
 
 ---
 
-## 📱 Featured Projects
+## 📌 Featured Projects
 
 ### 🎵 Music Flow
-Music streaming mobile application built with Flutter.
+Music streaming mobile app built with Flutter.
 
-Features:
-- Music streaming
-- Comments
-- Lyrics display
+- Streaming audio
+- Comments & lyrics
 - Offline download
 
-Tech stack:
-Flutter, Node.js, Express.js, MongoDB, Cloudinary
-
+**Tech:** Flutter, Node.js, MongoDB, Cloudinary  
 🔗 https://github.com/hongphuc2004/Music_Flow
 
 ---
 
 ### 🎧 Kotlin Music Player
-Native Android music player built with Kotlin.
+Native Android music player using Kotlin.
 
-Features:
 - Background playback
 - MediaSession controls
-- Playlist & favorites
 - MVVM architecture
 
-Tech stack:
-Kotlin, Android SDK, ExoPlayer, MVVM
-
+**Tech:** Kotlin, Android SDK, ExoPlayer  
 🔗 https://github.com/hongphuc2004/kotlin-music-app-PN
 
 ---
 
 ### 🎶 Web Music Player
-Full-stack web music player.
+Full-stack web music player application.
 
-Tech stack:
-HTML, CSS, JavaScript, Node.js, Express
-
+**Tech:** HTML, CSS, JavaScript, Node.js, Express  
 🔗 https://github.com/hongphuc2004/Music-Player
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hongphuc2004&show_icons=true&theme=default)
+
+---
+
+## 📫 Contact
 
 📧 Email: hongphucc0703@gmail.com  
 🔗 LinkedIn:  
