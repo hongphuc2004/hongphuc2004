@@ -2,7 +2,7 @@
 
 🎓 Final-year Information Technology Student  
 📱 Flutter & Mobile Developer  
-💻 Frontend Developer (React.js)  
+💻 Frontend Developer 
 📍 Ho Chi Minh City, Vietnam  
 
 ---
