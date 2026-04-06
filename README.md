@@ -30,12 +30,6 @@ engineer.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hongphuc2004&show_icons=true&theme=default)
-
----
-
 ## 📫 Contact
 
 📧 Email: hongphucc0703@gmail.com  
